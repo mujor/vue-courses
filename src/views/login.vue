@@ -1,6 +1,5 @@
 <template>
   <div>
-    I'm parent!
-    <router-view/>
+    LOGIN PAGE
   </div>
 </template>

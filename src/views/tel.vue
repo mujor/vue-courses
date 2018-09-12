@@ -1,6 +1,5 @@
 <template>
   <div>
-    I'm parent!
-    <router-view/>
+    tel:132-6666-8888
   </div>
 </template>

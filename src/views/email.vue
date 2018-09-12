@@ -1,6 +1,5 @@
 <template>
   <div>
-    I'm parent!
-    <router-view/>
+    email:13266668888@163.com
   </div>
 </template>
