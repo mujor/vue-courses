@@ -65,6 +65,11 @@ export default [
     }
   },
   {
+    path: '/store',
+    name: 'store',
+    component: () => import('@/views/store.vue')
+  },
+  {
     path: '*',
     component: () => import('@/views/error_404.vue')
   }
