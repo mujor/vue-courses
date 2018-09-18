@@ -11,7 +11,7 @@ export default {
   name: 'store',
   data () {
     return{
-      inputValue: 'aaa'
+      inputValue: ''
     }
   },
   components:{
